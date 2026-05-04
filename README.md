@@ -3,6 +3,11 @@ In essence it is a microdeduplicator using Matches/Blocks/Granularities from 8..
 
 ![MM_v5_2](https://github.com/user-attachments/assets/f99b6892-43e7-4b92-aa93-d41647ee2957)
 
+So, let us find out how well it deduplicates the 'SPETSNAZ' collection of FB2 ebooks (a XML-like format):
+
+![SPETSNAZ](https://github.com/user-attachments/assets/2af1937a-63f2-4844-8588-4e74bfb5c7d0)
+
+
 ```
 lzbench 2.2.1 | GCC 14.2.1 | 64-bit Linux | 11th Gen Intel(R) Core(TM) i7-11850H @ 2.50GHz
 The results sorted by column number 4:
