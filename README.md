@@ -1,5 +1,5 @@
 This is **MayMun** - the Linux texttoy actually capable to deduplicate e.g. a 300GB file on a 4GB laptop.    
-In essence it is a microdeduplicator using Matches/Blocks/Granularities from 8..256 at step 8, encoding them in 1+(1..8) bytes that is using 2^(1*8)=256B, 2^(2*8)=64KB,... 2^(8*8)=16EiB, so it is kinda non-entropy compressor.
+In essence it is a microdeduplicator using Matches/Blocks/Granularities from 8..256 at step 8, encoding them in 1+(1..8) bytes that is using 2^(1x8)=256B, 2^(2x8)=64KB,... 2^(8x8)=16EiB, so it is kinda non-entropy compressor.
 
 ![MM_v5_2](https://github.com/user-attachments/assets/f99b6892-43e7-4b92-aa93-d41647ee2957)
 
