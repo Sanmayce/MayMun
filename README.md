@@ -1,6 +1,6 @@
 This is MayMun - the Linux texttoy actually capable to deduplicate e.g. a 300GB file on a 4GB laptop.
 
-![MM_v5_2](https://github.com/user-attachments/assets/4c4cc745-8457-4275-b883-67690cd759de)
+![MM_v5_2](https://github.com/user-attachments/assets/f99b6892-43e7-4b92-aa93-d41647ee2957)
 
 ```
 lzbench 2.2.1 | GCC 14.2.1 | 64-bit Linux | 11th Gen Intel(R) Core(TM) i7-11850H @ 2.50GHz
